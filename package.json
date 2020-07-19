@@ -11,11 +11,11 @@
     "@vue/composition-api": "^0.6.7",
     "audio-recorder-polyfill": "^0.3.6",
     "core-js": "^3.6.5",
-    "firebase": "^7.15.4",
-    "firebaseui": "^4.5.1",
+    "firebase": "^7.16.1",
+    "firebaseui": "^4.6.0",
     "vue": "^2.6.11",
     "vue-router": "^3.3.4",
-    "vuefire": "^2.2.2"
+    "vuefire": "^2.2.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.4.6",
